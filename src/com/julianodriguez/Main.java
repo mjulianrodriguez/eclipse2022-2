@@ -7,4 +7,8 @@ public class Main {
 
 	}
 
+	public void calculo() {
+
+	}
+
 }
