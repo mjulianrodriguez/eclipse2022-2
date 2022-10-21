@@ -9,6 +9,8 @@ public class Main {
 
 	public void calculo() {
 
+		String str="Hola Mundo";
+
 	}
 
 }
