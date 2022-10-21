@@ -9,7 +9,7 @@ public class Main {
 
 	public void calculo() {
 
-		String str="Hola Mundo";
+		String str="Hola Mundo uno";
 
 	}
 
