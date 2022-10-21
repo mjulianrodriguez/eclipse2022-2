@@ -9,7 +9,7 @@ public class Main {
 
 	public void calculo() {
 
-		String str="Hola Mundo estoy haciendo pruebas de Commit and push";
+		String str="Hola Mundo estoy haciendo pruebas de Commit and Push hoy 21 de octubre de 2022";
 
 	}
 
